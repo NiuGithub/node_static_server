@@ -1,0 +1,1 @@
+7z a config.zip *.json -r
